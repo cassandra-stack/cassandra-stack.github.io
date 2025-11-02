@@ -1,0 +1,11 @@
+title: Cassandra Docs
+description: AI-Powered Medical Imaging Analysis Platform Documentation
+url: https://cassandra-stack.github.io
+baseurl: ""
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+include:
+  - _pages
